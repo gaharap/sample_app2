@@ -1,8 +1,8 @@
-source 'https://rubygems.org'
+isource 'https://rubygems.org'
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '4.0.5'
+gem 'rails', '4.2.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
