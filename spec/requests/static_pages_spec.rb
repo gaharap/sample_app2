@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+=begin
 describe "Static pages" do
 
   subject { page }
@@ -33,4 +34,4 @@ describe "Static pages" do
     it { should have_title(full_title('Contact')) }
   end
 end
-
+=end
